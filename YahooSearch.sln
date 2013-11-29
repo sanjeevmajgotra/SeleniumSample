@@ -5,6 +5,11 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YahooSearch", "YahooSearch\YahooSearch.csproj", "{18531E7E-6DC1-40B2-90DE-076A892B0F29}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EF333595-D61C-4B6C-A245-B169D532E40C}"
+	ProjectSection(SolutionItems) = preProject
+		YahooHomePage.cs = YahooHomePage.cs
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
